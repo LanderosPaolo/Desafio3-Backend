@@ -41,5 +41,7 @@ Este es un repositorio de ejemplo que contiene un servidor de API REST desarroll
     "url": "URL de la publicación",
     "descripcion": "Descripción de la publicación"
     }
-
+    
+## Inicia el servidor
+    npm run dev
 
